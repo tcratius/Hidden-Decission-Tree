@@ -1,0 +1,16 @@
+Title	URL	Date	Unique Pageviews
+Preparing and Starting DS career	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:242750	20-Jan-15	163
+The Rogue Data Scientist	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:273425	4-May-15	1108
+Is it safe to code after one bottle of wine?	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:349416	9-Nov-15	1736
+Short-Term Forecasting of Electricity Demand	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:350421	12-Nov-15	1117
+Visual directory of 339 tools. Wow!	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:373786	14-Jan-16	4228
+8 Types of Data	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:377008	23-Jan-16	2829
+Very funny video for people who write code	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:379578	30-Jan-16	2444
+Another funny picture about programmers	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:381447	3-Feb-16	1087
+Facebook Shares Large Data Sets to Help Improve its AI and Data ScienceAlgorithms	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:389619	19-Feb-16	1344
+Free Book: Probabilistic and Statistical Modeling in Computer Science	http://www.datasciencecentral.com/forum/topic/show?id=6448529:Topic:400821	13-Mar-16	2889
+Top 10 Machine Learning Algorithms	http://www.datasciencecentral.com/forum/topics/0-top-machine-learning-algorithms	11-Mar-16	14352
+100 articles about Data Science with Excel	http://www.datasciencecentral.com/forum/topics/100-articles-about-data-science-with-excel	24-May-15	5051
+"100+ R tutorials, code snippets, libraries and resources"	http://www.datasciencecentral.com/forum/topics/100-r-tutorials-code-snippets-libraries-and-resources	26-May-15	5947
+10 Cloud Trends for 2016 - Whitepaper	http://www.datasciencecentral.com/forum/topics/10-cloud-trends-for-2016-whitepaper?groupUrl=announcements	3-Feb-16	156
+10 simple techniques to make data useful and beautiful	http://www.datasciencecentral.com/forum/topics/10-simple-techniques-to-make-data-useful-and-beautiful?groupUrl=announcements	14-Aug-14	527
